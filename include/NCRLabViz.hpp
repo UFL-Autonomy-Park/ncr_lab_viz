@@ -31,10 +31,6 @@ private:
     //Rviz markers
     rclcpp::Publisher<visualization_msgs::msg::MarkerArray>::SharedPtr posts_publisher_;
     visualization_msgs::msg::MarkerArray post_markers_;
-    // std::vector<geometry_msgs::msg::Point> post_positions_;
-    // geometry_msgs::msg::Vector3 post_scale_;
-    // std_msgs::msg::ColorRGBA post_color_;
-    // std_msgs::msg::ColorRGBA near_post_color_;
 
     int num_subscribers_;
 
