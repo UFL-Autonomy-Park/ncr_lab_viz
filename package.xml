@@ -2,10 +2,10 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>ncr_lab_viz</name>
-  <version>1.0.0</version>
+  <version>2.0.0</version>
   <description>Visualizes the Bebop and its desired direction, current location, current heading and so on. One Bebop only.</description>
   <maintainer email="brandonfallin@ufl.edu">Brandon Fallin</maintainer>
-  <license>TODO: License declaration</license>
+  <license>MPL-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
